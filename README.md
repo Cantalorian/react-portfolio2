@@ -33,6 +33,9 @@
   ## Link to project
   https://github.com/Cantalorian/react-portfolio2
 
+  ##Live URL
+  https://peaceful-benz-704c7b.netlify.app/
+
   ## Questions
   'For any questions regarding this project, I can be reached at <a href="https://github.com/Cantalorian">Cantalorian</a> on github. Or email me at Chewie1985@gmail.com'
   
