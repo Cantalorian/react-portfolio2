@@ -48,6 +48,12 @@ function App() {
       title: 'Shop-Shop',
       link: 'https://enigmatic-castle-31265.herokuapp.com/',
       repo: 'https://github.com/Cantalorian/shop-shop'
+    },
+    {
+      image: 'Entertain-me-MERN.png',
+      title: 'Entertain Me MERN',
+      link: 'https://entertain-me-jc.herokuapp.com/',
+      repo: 'https://github.com/Cantalorian/entertain-me-redux'
     }
   ])
 
